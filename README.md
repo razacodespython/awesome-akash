@@ -159,6 +159,7 @@ Awesome DeFi apps you can deploy on Akash
 
 ### Tools
 
+- [thirdweb](thirdweb)
 - [DEGO Stats](dego-stats)
 - [authsteem](authsteem)
 - [microbox](microbox)
